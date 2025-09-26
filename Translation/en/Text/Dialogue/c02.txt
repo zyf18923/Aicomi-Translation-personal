@@ -365,7 +365,7 @@
 「ずいぶん唐突ね……まあ、全然構わないけど」=「That was pretty sudden... Well, I don't mind at all.」
 「よし、じゃあ、[Hあだ名]ってのはどうかな？」=「Okay, then how about [Hあだ名]?」
 「へぇ、中々いい感じね。それじゃあ、私はキミをなんで呼べばいいの？」=「Huh, that's pretty good. Then why should I call you?」
-「[Pあだ名]って……呼んでほしいな」=「I wish you'd call me... a P nickname.」
+「[Pあだ名]って……呼んでほしいな」=「I wish you'd call me... a [Pあだ名].」
 「キミ……そういう趣味があったの？」=「Are you... into that sort of thing?」
 「駄目、かな？」=「I guess I can't?」
 「ダメじゃないけど……ちょっと恥ずかしさはあるわね。まあ、呼んであげるけど」=「It's not that I can't, but... it's a little embarrassing. Well, I'll call for you.」
@@ -1907,7 +1907,7 @@ B頖=B-
 「そう言ってくれるって思ってたわ。いっぱいお勉強しましょうね」=「I knew you'd say that. Let's study a lot.」
 「そう、今は気分じゃなかった？」=「I see. You're not in the mood right now?」
 「ごめんなさい……キミと一緒にいたいけど、今は無理なの」=「I'm sorry... I want to be with you, but I can't right now.」
-「[Pあだ名]。私とエッチ……しない？」=「P nickname. Wanna... have sex with me?」
+「[Pあだ名]。私とエッチ……しない？」=「[Pあだ名]. Wanna... have sex with me?」
 「お風呂は湯船でゆっくりするタイプ？　それともシャワーで済ませるの？」=「Are you the type to relax in the bath? Or are you just going to take a shower?」
 湯船がいいかな=I think I'd like a bath.
 大体シャワーだね=It's more like a shower.

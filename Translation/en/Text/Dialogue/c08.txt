@@ -21,7 +21,7 @@
 「じゃあ……[Pあだ名]」=「Then... [Pあだ名].」
 「それ、俺のあだ名？　いいね。じゃあ、俺もつけよう。そうだな……[Hあだ名]ってどう？」=「That's my nickname? Sounds good. Then I'll give it a try too. Let's see... How about [Hあだ名]?」
 「いいと……思う……」=「I think... it's okay...」
-「やった。じゃあ、[Hあだ名]。ずっと仲良くしようね」=「Yay. Then let's keep getting along, okay?」
+「やった。じゃあ、[Hあだ名]。ずっと仲良くしようね」=「Great. Well then, [Hあだ名]. Let's be friends forever.」
 「うん……」=「Yeah...」
 「せっかくつけたし……これからずっと、あだ名で呼び合うことにする？」=「Now that we've given it a try... why don't we keep calling each other by our nicknames from now on?」
 「それは……違う。時々……」=「That's... not it. Sometimes...」
@@ -368,7 +368,7 @@
 「……おうち……お隣に引っ越す？」=「...Should we... move to the house next door?」
 「それはすごく大変だから、あだ名をつけて距離を縮めるのはどうかな？」=「That's a lot of work, so why don't we call it a nickname and close the distance between us?」
 「あだ名……じゃあ……」=「A nickname... Then...」
-「待って。もう決めてるんだ。俺のあだ名は[Pあだ名]がいい。[Pあだ名]って呼んで」=「Wait. I've already decided. My nickname is P. Call me P.」
+「待って。もう決めてるんだ。俺のあだ名は[Pあだ名]がいい。[Pあだ名]って呼んで」=「Wait. I've already decided. My nickname is [Pあだ名]. Call me [Pあだ名].」
 「……それでいいんだ……わかった……[Pあだ名]」=「...That's fine... Got it... [Pあだ名].」
 「ありがとう、[Hあだ名]」=「Thank you, [Hあだ名].」
 「……それ……わたしのあだ名？」=「...Is that... my nickname?」
@@ -1635,7 +1635,7 @@ r翽=R~
 「……はあ……」=「...Haah...」
 「用件……手短で……お願い」=「My business... is brief... please.」
 「隠れるのが上手……雨雲の向こうにいる太陽みたい……」=「You're good at hiding... It's like the sun on the other side of the rain clouds...」
-「[Pあだ名]……いやらしいこと、したい……」=「P nickname... I want to do something dirty...」
+「[Pあだ名]……いやらしいこと、したい……」=「[Pあだ名]... I want to do something dirty...」
 「デート……？　いいよ……楽しい一日に……しよう」=「A date...? Sure... Let's have a fun day...」
 「英語のヒアリングの授業……少し緊張する……」=「English listening class... I'm a little nervous...」
 よくわかるよ=I know exactly what you mean.

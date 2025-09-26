@@ -1,7 +1,7 @@
 「お、いい匂いがすると思ったら焼きそばですね」=「Oh, I thought it smelled good, but it's yakisoba.」
 「本当、焦げたソースのいい匂いがしてるわね」=「It really smells like burnt sauce.」
 「あの屋台での大きな鉄板で焼く焼きそばって、なかなかお店でも再現出来ないのよねぇ」=「It's hard to reproduce the yakisoba made with that large iron plate at that stall even at a restaurant.」
-「でも、俺は[H姓]さんが作ってくれた焼きそばの方が好きですよ」=「But I like the yakisoba you made, Mr. H.」
+「でも、俺は[H姓]さんが作ってくれた焼きそばの方が好きですよ」=「But I like the yakisoba you made, [H姓].」
 「そう言ってくれるのは有り難いんだけど……この香り高いソースも、市販とはなにか違う感じがするのよね」=「I'm grateful to hear you say that, but... even this fragrant sauce feels different from what you'd find on the market.」
 「あの大きな鉄板で焼くのは火力が違うんでしょうか？」=「I wonder if cooking on that big iron plate has a different firepower?」
 「多分そうなんだけど……本部に厨房に鉄板の導入を申請してみようかしら」=「That's probably true, but... Maybe I should apply to HQ for an iron plate in the kitchen.」
@@ -16,7 +16,7 @@
 「ふふっ、あなたがはしゃいでいるの、すっごく可愛い」=「Hehe. You're so cute when you're excited.」
 「ええっ！？　可愛いって、俺がですか？」=「Ehhh!? Cute? Me?」
 「うん、だって、子どもみたいにはしゃいじゃってるんだもん」=「Yeah, because you're acting like a kid.」
-「そんなことは……でも、それなら[H姓]さんの方が……」=「That's not true... But if that's the case, you're the one with the H family name...」
+「そんなことは……でも、それなら[H姓]さんの方が……」=「That's not true... But if that's the case, you're the one with the [H姓]...」
 「あら、私、そんなに可愛いかしら？　もしかしたらお祭り効果かも♪」=「Oh, am I really that cute? Maybe it's the festival effect♪」
 「お祭り効果でもなんでもいいです……可愛いものは可愛いですから」=「I don't care if it's the festival effect or whatever... Cute things are cute.」
 「えっと……さすがに可愛いを連呼されるのは……恥ずかしいわ」=「Umm... It's embarrassing... to be called cute over and over again.」
@@ -160,7 +160,7 @@
 「って、あなたは……よくカフェを利用してくれてた」=「Wait... You used to use the cafe a lot.」
 「あ、やっぱり人違いじゃなかったんですね……ビックリしました。こんなところで再会するなんて」=「Ah, so you weren't mistaken after all... You startled me. I didn't expect to see you again here.」
 「私もビックリ。それにしてもよく覚えていてくれたね」=「I'm surprised too. Even so, I'm impressed you remembered.」
-「それはよく利用してましたから。むしろ、[H姓]さんの方が俺のことをよく覚えていてくれましたね」=「That's because I used it a lot. In fact, you remembered me better than me.」
+「それはよく利用してましたから。むしろ、[H姓]さんの方が俺のことをよく覚えていてくれましたね」=「I used to come here a lot. Actually, it was [H姓] who remembered me the best.」
 「もちろん覚えてるわ。大切なお客様ですから……ね♪」=「Of course I remember. You're an important customer, after all...♪」
 「大切なお客様、ですか……なのに、挨拶もなしに姿を見せなくなったんですね」=「An important guest, huh...? But you didn't show up without saying hello.」
 「あ～……それはごめんなさい！　急な移動だったし、準備とかいろいろあって、お店に顔を出せなかったの」=「Ah~... I'm sorry about that! It was so sudden, and I couldn't come to the store because of all the preparations.」
@@ -208,7 +208,7 @@
 「エッチ……しませんか？」=「Would you... like to have sex?」
 「うん……私も……あなたと……したいって思ってたんだ……」=「Yeah... I wanted... to do it with you too...」
 「今日も来てくれてありがとう」=「Thank you for coming again today.」
-「いえ、[H姓]さんの可愛い顔を見に来る為だから、当然、通いますよ」=「No, I'm here to see your cute face, so of course I'll come.」
+「いえ、[H姓]さんの可愛い顔を見に来る為だから、当然、通いますよ」=「No, I come here to see your cute face, so of course I do.」 
 「ええっ、あなたってそういうお世辞も言っちゃうんだ」=「Whaaat? You flatter me like that?」
 「お、お世辞じゃないですよ」=「I-It's not flattery.」
 「うんうん、わかったわかった♪　ふふっ、なんだか長年付き合いのある友人みたいな会話ね」=「Okay, okay, okay♪ Hehe, this conversation feels like a friend I've known for years.」
@@ -283,7 +283,7 @@
 行けます=I can go.
 「やっぱり観た後の感想も聞きたいし、ご飯も行きたいし……誰かと一緒がいいわよね」=「I want to hear your impressions after watching it, and I want to eat... I want you to be with someone.」
 「なかなか寝付けない時ってどうしてる？」=「What do you do when you're having trouble sleeping?」
-「[H姓]さんのことを考えてます」=「I'm thinking about you, Mr. H.」
+「[H姓]さんのことを考えてます」=「I'm thinking about you, [H姓].」
 「えっ、ちょっ……そういうのはいいからぁ……あ、でも……少し嬉しいかも」=「Eh, hey... Don't worry about that... Ah, but... I think I'm a little happy.」
 「この前、すっごく可愛い猫を見つけたの。あなたは猫は好き？」=「I found a really cute cat the other day. Do you like cats?」
 「好きですよ」=「I love you.」

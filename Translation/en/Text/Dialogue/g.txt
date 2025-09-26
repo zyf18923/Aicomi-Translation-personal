@@ -9,7 +9,7 @@
 「ここが通う学園か、木造校舎なんて今どき珍しいな」=「So this is the school you go to, huh? It's rare to see a wooden school building these days.」
 「えっと、まずは職員室で挨拶と転入手続きしないと」=「Umm, first we need to go to the staff room to say hello and transfer paperwork.」
 「あ、転入生君かな？　ようこそ木目込学園へ！　私は担任の花守 夏芽です。これからよろしくね」=「Oh, are you the transfer student? Welcome to Kimegome Academy! I'm your homeroom teacher, Hanamori Natsume. Nice to meet you.」
-「[P名前]です、こちらこそ、よろしくお願いします」=「I'm P-Name. It's nice to meet you too.」
+「[P名前]です、こちらこそ、よろしくお願いします」=「I'm [P名前]. It's nice to meet you too.」
 「ふふ、ちゃんと挨拶が出来て偉いわね。でも改まった挨拶はこのくらいにして、昔みたいに話してくれてもいいわよ？」=「Hehe, it's great that you were able to greet me properly. But you can leave the formal greetings at that and talk like you used to, you know?」
 「えっと……」=「Umm...」
 「……って、うそ、もしかして忘れられちゃってる？」=「...Wait, no way, did she forget?」
@@ -24,10 +24,10 @@
 「みんなには前から伝えていたけど、今日は転入生君が来てくれてます。さっそく自己紹介してもらいましょう、どうぞ」=「I've told everyone for a while now, but the transfer student is here today. Let's introduce ourselves right away. Go ahead.」
 真面目にする=I'll be serious.
 ふざける=You're joking.
-「はじめまして、[P名前]と言います。家庭の都合で急遽ここへ転入することになりました」=「Nice to meet you. I'm P-Name. Due to family circumstances, I've been transferred here in a hurry.」
+「はじめまして、[P名前]と言います。家庭の都合で急遽ここへ転入することになりました」=「Nice to meet you. I'm [P名前]. Due to family circumstances, I've been transferred here in a hurry.」
 「祖父母が住んでいるから小さい頃に何度か来たことはあるんだけど……殆ど初めてなので、色々教えてもらえると嬉しいです」=「My grandparents live here, so I've been here a few times when I was little... but it's mostly my first time, so it'd be nice if you could teach me a lot.」
 合流2=Regroup 2
-「どうもどうも。[P名前]と言います。都心からやってきました！」=「Hello, hello. My name is P. I'm from the city center!」
+「どうもどうも。[P名前]と言います。都心からやってきました！」=「Hello, hello. My name is [Pあだ名]. I'm from the city center!」
 「都会のこととか、何か聞きたいことがあったら何でも聞いてください！」=「If there's anything you want to ask about the city, just ask!」
 「自己紹介ありがとう。見ての通り、今は女の子しかいなくて男の子は君一人なの」=「Thank you for the introduction. As you can see, you're the only boy I have right now.」
 「そのうち慣れると思うけど、みんなも仲良くしてあげてね。もし困っていたら力になってあげてくれると嬉しいな」=「I'm sure you'll get used to it eventually, but make sure you all get along. If you're ever in trouble, I'd be happy if you could help.」
