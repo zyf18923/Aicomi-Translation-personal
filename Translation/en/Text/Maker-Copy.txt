@@ -1,0 +1,13 @@
+﻿制服=Uniform
+リップ=Lip
+アイシャドウ=Eye Shadow
+チーク=Cheek
+コーデコピー (Face makeup)=Co-op copies. (Face makeup)
+コーデコピー=Codecopies
+私服=Casual Clothes
+足のネイル=The nail on my leg.
+手のネイル=Nail of the Hand
+コーデコピー (Body makeup)=Co-decorated copies.
+コーデコピー (Hairstyle)=Co-op copies. (Hairstyle)
+コーデコピー (Costume)=Codecopies. (Costume)
+コーデコピー (Accessory)=Co-op copies. (accessory)
