@@ -1,11 +1,11 @@
 厈=,
 「花火、よかったわね……ずっと見ていたいと思ってしまったわ」=「I'm so happy with the fireworks... I want to watch them forever.」
-「俺はその……[H名]さんをずっと見ていたいと思ってました」=「I... I wanted to keep looking at you, [H姓].」 
+「俺はその……[H名]さんをずっと見ていたいと思ってました」=「I... I wanted to keep looking at you, [H名].」 
 「ふふ、どうしたの？ 急に口説くようなことを言って……何か狙いがあるのかしら？」=「Hehe, what's wrong? Why are you trying to seduce me all of a sudden...? Do you have something in mind?」
 「ほら、もう少しこっちに来て……そろそろ花火が始まるわよ」=「Come on, come a little closer... The fireworks are about to start.」
 「すみません……なんかちょっと緊張しちゃって」=「I'm sorry... I was just a little nervous.」
 「ふふ、今更なに？ 二人で花火を見るだけでしょう？」=「Hehe, why now? We're just going to watch the fireworks together, aren't we?」
-「いや、お祭りってやっぱり周りの目が多いんで……俺は[H名]さんに釣り合ってるのかなって」=「Well, festivals are always full of people watching... so I wonder if I'm a good match for you, [H姓].」
+「いや、お祭りってやっぱり周りの目が多いんで……俺は[H名]さんに釣り合ってるのかなって」=「Well, festivals are always full of people watching... so I wonder if I'm a good match for you, [H名].」
 「ふぅん、そんなことを心配していたのね……とりあえず花火を見ながら話しましょうか」=「Hmm, so that's what you were worried about... Anyway, let's talk while watching the fireworks.」
 「はい……あっ、上がりましたよ！ 綺麗ですねぇ」=「Yes... Ah, it's up! It's beautiful.」
 「ええ、本当に綺麗ね……私はね、この花火をあなたと見るのを、凄く楽しみにしていたのよ」=「Yes, it really is beautiful... I was really looking forward to seeing these fireworks with you.」
@@ -18,7 +18,7 @@
 「それにね、あなたは別に背伸びする必要なんてないの。今のままでも十分過ぎるくらい、私は大好きだから」=「Besides, you don't really need to stand on your tiptoes. I love you more than enough as it is.」
 「俺も……[H名]さんが大好きです。だからやっぱり、背伸びはこれからも続けてしまうと思います」=「Me too... I love you, [H名]. That's why I think I'll continue to stand on my tiptoes.」
 「ふふ、困った子ね。でもそういうあなただからこそ、私は好きになったのでしょうね」=「Hehe, what a troublesome girl. But it's precisely because you're like that that I fell in love with you.」
-「俺……この先もずっとずっと、こうやって[H名]さんと花火を見たいです」=「I... I want to watch fireworks like this with you, [H姓], forever and ever.」 
+「俺……この先もずっとずっと、こうやって[H名]さんと花火を見たいです」=「I... I want to watch fireworks like this with you, [H名], forever and ever.」 
 「あら、早速背伸びして……ほんとにもう、花火を見ているどころではなくなってしまいそうだわ」=「Oh, you're already standing on your tiptoes... I really don't think I'll be able to watch the fireworks anymore.」
 「最近よく来るわね。図書館を気に入ってもらえたのかしら？」=「You've been coming here a lot lately. I wonder if you like the library?」
 「はは……まぁそんな感じです」=「Haha... Well, that's how it is.」
@@ -104,7 +104,7 @@
 「……なんの目的で？」=「...For what purpose?」
 「まだこっちに知り合いが少なくて……会った人とはなるべく仲良くなりたいなぁって」=「I don't know many people here yet... I just want to get as close to them as possible.」
 「そういうことなら……一応名刺を渡しておくわ」=「In that case... I'll give you my business card.」
-「[H名前]さんですね……[H姓]さんて呼んでもいいですか？=「[H名]... Can I call you [H名]?」
+「[H名前]さんですね……[H姓]さんて呼んでもいいですか？=「[H名前]... Can I call you [H姓]?」
 「どうぞ。いきなり名前で呼んでくるような変な子ではなくて、少し安心したわ」=「Go ahead. I'm a little relieved that you're not the kind of weird girl who calls me by my first name all of a sudden.」
 「はは……それじゃあまた、近いうちに来ますね！」=「Haha... Well then, I'll be back soon!」
 「……知り合いがいなくても、ここに来れば本は読めるわ」=「...Even if I don't know anyone, I can read books if I come here.」
@@ -213,7 +213,7 @@
 「えっと……その……上手く言えないんですけど……」=「Umm... well... I can't really put it into words...」
 「いえ、いいのよ無理はしなくて。私、なんだか変ね……いつもはしないことばかりしている気がするわ」=「No, it's okay. You don't have to force yourself. I'm kind of weird... I feel like I've been doing nothing but doing what I usually do.」
 「きっと、本の話を語り合うなんて久しぶりだったから、少し興奮しているのでしょうね……年甲斐もなくごめんなさい」=「It's been a while since we've talked about books, so I'm sure she's a little excited... Sorry for being so young.」
-「[H名]さん、何を読んでるんですか？」=「What are you reading, [H姓]-Name?」
+「[H名]さん、何を読んでるんですか？」=「What are you reading, [H名]?」
 「ひゃっ！？ な、なんでもないわ！ い、いつからいたのっ？」=「Hyah?! N-Nothing! H-How long have you been here?」
 「今来たばかりですよ。なんか凄く集中して読んでたから、少し話しかけずに見てましたけど……」=「I just got here. I was really focused on reading it, so I didn't talk to you for a while...」
 「そ、そう……本の内容までは見ていないのね？」=「I-I see... You didn't see the contents of the book, did you?」
@@ -230,7 +230,7 @@
 「正確に言うと、分からないことを分かろうとして恋愛教本を読んでいた……といったところね」=「To be precise, I was reading a love textbook trying to figure out what I didn't understand... or something like that.」
 「そうですか……そんな風に[H名]さんに思ってもらえる男性は幸せですね。じゃあ俺……帰ります」=「I see... a man who you think of that way is lucky. Well, I... I'm going home.」 
 「待って！ 次は私の質問……なんでそこまで、私のことを知りたがるの……？」=「Wait! Next is my question... Why do you want to know so much about me...?」
-「[H名]さん……俺、今からちょっとずるいことをします。まだ子どもなんで、必死にならないと大人には勝てないと思うんで」=「[H姓]-Name... I'm about to do something a little unfair. I am still a child, so I don't think I'll be able to beat an adult unless I do my best.」
+「[H名]さん……俺、今からちょっとずるいことをします。まだ子どもなんで、必死にならないと大人には勝てないと思うんで」=「[H名]-chan... I'm going to do something a little sneaky now. I'm still a kid, so I don't think I can beat adults unless I try my hardest.」
 「俺……[H名]さんのことが好きです。一人の女性として、付き合ってもらいたいって思ってます」=「I... like you, [H名]. As a woman, I want you to go out with me.」
 「っ……ちょっと待って。あなた、何か勘違いしているわ……」=「...Hold on. You're misunderstanding something...」
 「すみません……今まで優しくしてもらえたのは、仕事上のものだって分かってはいたんですけど……」=「I'm sorry... I knew you were kind to me up until now, but...」

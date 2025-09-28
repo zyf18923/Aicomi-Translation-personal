@@ -23,7 +23,7 @@
 ふざける=You're joking.
 「はじめまして、[P名前]と言います。家庭の都合で急遽ここへ転入することになりました」=「Nice to meet you. I'm [P名前]. Due to family circumstances, I've been transferred here in a hurry.」
 「祖父母が住んでいるから小さい頃に何度か来たことはあるんだけど……殆ど初めてなので、色々教えてもらえると嬉しいです」=「My grandparents live here, so I've been here a few times when I was little... but it's mostly my first time, so it'd be nice if you could teach me a lot.」
-「どうもどうも。[P名前]と言います。都心からやってきました！」=「Hello, hello. My name is [Pあだ名]. I'm from the city center!」
+「どうもどうも。[P名前]と言います。都心からやってきました！」=「Hi there. My name is [P名前]. I'm from downtown!"」
 「都会のこととか、何か聞きたいことがあったら何でも聞いてください！」=「If there's anything you want to ask about the city, just ask!」
 「自己紹介ありがとう。見ての通り、今は女の子しかいなくて男の子は君一人なの」=「Thank you for the introduction. As you can see, you're the only boy I have right now.」
 「そのうち慣れると思うけど、みんなも仲良くしてあげてね。もし困っていたら力になってあげてくれると嬉しいな」=「I'm sure you'll get used to it eventually, but make sure you all get along. If you're ever in trouble, I'd be happy if you could help.」
