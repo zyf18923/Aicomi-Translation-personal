@@ -5,6 +5,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <OutputPath>$(SolutionDir)\bin\plugins</OutputPath>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <Deterministic>true</Deterministic>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>embedded</DebugType>
+    <FileAlignment>512</FileAlignment>
   </PropertyGroup>
 
   <ItemGroup>
@@ -18,4 +24,11 @@
     </PackageReference>
   </ItemGroup>
 
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Delete Files="$(OutputPath)\$(MSBuildProjectName).deps.json" />
+  </Target>
 </Project>

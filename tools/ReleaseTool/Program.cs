@@ -132,6 +132,20 @@ internal static class ReleaseTool
         {
             Console.WriteLine("No config directory found, skipping adding AT config file");
         }
+        
+        var pluginsDir = Path.GetFullPath(Path.Combine(root.FullName, "tools\\bin\\plugins"));
+        if (Directory.Exists(pluginsDir))
+        {
+            foreach (var file in Directory.GetFiles(pluginsDir, "*", SearchOption.AllDirectories))
+            {
+                var entryName = Path.Combine("BepInEx\\plugins", CleanPath(file.Substring(pluginsDir.Length)));
+                AddToZip(file, entryName);
+            }
+        }
+        else
+        {
+            Console.WriteLine("No plugins directory found, skipping adding additional plugin dlls");
+        }
 
         var userdataDir = Path.Combine(root.FullName, "UserData");
         if (Directory.Exists(userdataDir) && Directory.GetFiles(userdataDir, "*", SearchOption.AllDirectories).Any())
