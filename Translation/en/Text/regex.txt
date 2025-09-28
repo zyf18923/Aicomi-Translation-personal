@@ -1,4 +1,6 @@
 
+r:"^パターン([０-９0-9]+)$"=Pattern $1
+
 sr:"^コーデコピー \(([\w ]+)\)$"=Outfit copy ($1)
 
 // This regex handles title bar text of the color picker in maker (catches most of them)

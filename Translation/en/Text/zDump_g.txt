@@ -55,7 +55,7 @@
 ウインク（右閉じ）=Wink (right closed)
 ウインク（左閉じ）=Wink (left closed)
 ウォータースライダー=Water slide
-オシャレ=Fashionable
+オシャレ=Fashion
 オシャレ一致=Same fashion
 オシャレ一致してない=Mismatched fashion
 オナニー=Masturbation
