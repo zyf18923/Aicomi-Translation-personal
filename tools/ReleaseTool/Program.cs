@@ -132,7 +132,7 @@ internal static class ReleaseTool
         {
             Console.WriteLine("No config directory found, skipping adding AT config file");
         }
-        
+
         var pluginsDir = Path.GetFullPath(Path.Combine(root.FullName, "tools\\bin\\plugins"));
         if (Directory.Exists(pluginsDir))
         {
@@ -186,7 +186,7 @@ internal static class ReleaseTool
 
             foreach (var looseFile in Directory.GetFiles(tlDir, "*.*", SearchOption.TopDirectoryOnly))
             {
-                AddToZip(looseFile,  $"BepInEx\\Translation\\{languageCode}\\{Path.GetFileName(looseFile)}");
+                AddToZip(looseFile, $"BepInEx\\Translation\\{languageCode}\\{Path.GetFileName(looseFile)}");
             }
 
             // Use the cleaned up copy
@@ -275,8 +275,19 @@ internal static class ReleaseTool
                         foreach (var file in Directory.GetFiles(textDir, "*.txt", SearchOption.AllDirectories))
                         {
                             var entryName = CleanPath(file.Substring(textDir.Length));
-                            //Console.WriteLine("Adding to redirected assets archive: " + entryName);
-                            textZipFile.Add(file, entryName);
+
+                            // Handle special files like _Substitutions.txt that need to be in the root of the Text folder to work
+                            if (entryName.StartsWith("_"))
+                            {
+                                var tempFileName = GetTempFileName();
+                                File.Move(file, tempFileName, true);
+                                AddToZip(tempFileName, $"BepInEx\\Translation\\{languageCode}\\Text\\{entryName}");
+                            }
+                            else
+                            {
+                                //Console.WriteLine("Adding to redirected assets archive: " + entryName);
+                                textZipFile.Add(file, entryName);
+                            }
                         }
 
                         textZipFile.CommitUpdate();
