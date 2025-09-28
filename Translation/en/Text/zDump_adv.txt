@@ -1,11 +1,5 @@
 // Warning: This is a raw string dump - many of those may not actually appear in the game and be comments or debug strings
 
-一人目=1st
-二人目=2nd
-三人目=3rd
-一回目=1st time
-二回目=2nd time
-三回目=3rd time
 OKする=Give the okay
 ……ごめん=...Sorry.
 あだ名まだ=His nickname still stands.
@@ -105,7 +99,7 @@ OKする=Give the okay
 全然ないね=Not at all.
 全然ないよ=I don't have any at all.
 冬かな=Maybe it's winter.
-初回=First time.
+初回=First time
 別れ際A=When we part ways, A
 別れ際B=When we parted ways, B
 勿論好きだよ=Of course I like it.
