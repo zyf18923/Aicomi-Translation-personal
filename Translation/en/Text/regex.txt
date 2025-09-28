@@ -1,4 +1,8 @@
 
+// Split character names
+// !! do not use, has side effects of messing with other translations, probably needs a plugin to hook whatever combines the names
+// sr:"^(\w+) (\w+)$"=$1 $2
+
 r:"^パターン([０-９0-9]+)$"=Pattern $1
 
 sr:"^コーデコピー \(([\w ]+)\)$"=Outfit copy ($1)
@@ -19,7 +23,8 @@ sr:"^(◯\w+) (◯\w+)$"=$1 $2
 sr:"^(◯\w+) (◯\w+) (◯\w+)$"=$1 $2 $3
 sr:"^(◯\w+) (◯\w+) (◯\w+) (◯\w+)$"=$1 $2 $3 $4
 
-r:"^([０-９0-9]+) ?席$"=$1 seats
+// Seats count
+r:"^([０-９0-9]+) ?席$"=$1
 
 r:"^水着([０-９0-9]+)$"=Swimsuit $1
 r:"^制服([０-９0-9]+)$"=Uniform $1
