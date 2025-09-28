@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReleaseTool", "ReleaseTool\ReleaseTool.csproj", "{6EDE4888-CF17-4D00-9BBB-EA70C7EDE21C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AC_TranslationHelper", "AC_TranslationHelper\AC_TranslationHelper.csproj", "{B0BACC22-E405-49C7-9C63-FC53AD24276F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6EDE4888-CF17-4D00-9BBB-EA70C7EDE21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EDE4888-CF17-4D00-9BBB-EA70C7EDE21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EDE4888-CF17-4D00-9BBB-EA70C7EDE21C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BACC22-E405-49C7-9C63-FC53AD24276F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BACC22-E405-49C7-9C63-FC53AD24276F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BACC22-E405-49C7-9C63-FC53AD24276F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BACC22-E405-49C7-9C63-FC53AD24276F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

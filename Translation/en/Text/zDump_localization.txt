@@ -16,7 +16,6 @@ O型=Blood Type O
 アップロード=Upload
 キャラをランダム登録=Randomly register a character
 キャラを新規作成しますか？=Do you want to create a new character?
-キャラクリエイト画面に移動します\nよろしいですか？=Proceed to the character creation screen\nIs this OK?
 サーバー接続に失敗しました=Server connection failed
 スポーツ=Sports
 タイトルへ戻りますか？=Return to title page? 
