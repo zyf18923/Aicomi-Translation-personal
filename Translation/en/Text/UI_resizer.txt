@@ -1,0 +1,8 @@
+ExploreScene/UICamera/Canvas/HeroineListUI/Panel/CharaView/ScrollView/Viewport/Content/Row(Clone)/Grid (00)/Info/Activity/imgSticky/txtActivity=ChangeFontSize(16)
+ExploreScene/UICamera/Canvas/HeroineListUI/Panel/CharaView/ScrollView/Viewport/Content/Row(Clone)/Grid (01)/Info/Activity/imgSticky/txtActivity=ChangeFontSize(16)
+ExploreScene/UICamera/Canvas/HeroineListUI/Panel/CharaView/ScrollView/Viewport/Content/Row(Clone)/Grid (02)/Info/Activity/imgSticky/txtActivity=ChangeFontSize(16)
+ExploreScene/UICamera/Canvas/HeroineListUI/Panel/CharaView/ScrollView/Viewport/Content/Row(Clone)/Grid (03)/Info/Activity/imgSticky/txtActivity=ChangeFontSize(16)
+
+ExploreScene/UICamera/Canvas/MessengerUI/Contacts/Screen/List/txtTitle=ChangeFontSize(23)
+
+New Game Object/Config(Clone)/Background/MainWindow/Settings/Scroll View/Viewport/Content/GraphicSetting/Content/Effects/tglDOF/ACT-01-18=ChangeFontSize(16)

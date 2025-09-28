@@ -22,12 +22,12 @@
 声のピッチ=Voice Pitch
 陸上部=Track & Field Club
 帰宅部=Going Home Club
-サブカル研究会=Subcal Research Society
+サブカル研究会=Subculture Club
 競泳部=Swimming Club
-考古学研究会=Archaeological Research Society
-語学研究会=Language Research Society
-地域活動部=Regional Operations Department
-キャラの部活=Character Club
+考古学研究会=Archaeology Club
+語学研究会=Language Research
+地域活動部=Community Service
+キャラの部活=Character's club activities
 ショッピング=Shopping
 おしゃべり=Talking
 散歩=A walk.
