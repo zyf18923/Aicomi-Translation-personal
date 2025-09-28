@@ -1,0 +1,3 @@
+// The game sometimes uses wide and normal spaces interchangeable for some translations, e.g. with character names.
+// Make sure that config has this set: GenerateStaticSubstitutionTranslations=True
+　= 

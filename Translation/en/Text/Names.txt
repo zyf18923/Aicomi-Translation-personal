@@ -1,6 +1,3 @@
-// TODO: the wide spaces are duping up the translations, both names below are already translated but with normal space and so they get translated again
-花守　夏芽=Natsume Hanamori
-川澄　結衣=Yui Kawasumi
 
 // TODO need to split up the character names
 吉沢=Yoshizawa
