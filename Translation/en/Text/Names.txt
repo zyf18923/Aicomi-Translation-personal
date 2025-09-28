@@ -104,6 +104,33 @@
 錦ノ宮=Nishikinomiya
 長倉=Nagakura
 
+// Nicknames (default cards)
+えりまる=Erimaru
+かな=I guess
+かなっち=Kanacchi
+かなのん=Kananon
+ずえちゃん=Zue-chan
+ちかちゃん=Chika-chan
+きらみん=Kiramin
+ななきゅん=Nanakyun
+ひよのん=Hiyonon
+まおねえ=Maonee
+まなちゃん=Mana-chan
+ゆいちゃん=Yui-chan
+ゆう=Yuu
+ゆりさん=Yuri-san
+ゆりちゃん=Yuri-chan
+ゆーさん=Yu-san
+りかちゃん=Rika-chan
+りゅうちゃん=Ryuu-chan
+つーちゃん=Tsu-chan
+れいさん=Rei-san
+ょうりん=Yourin
+もかちゃ=Mokacha
+
+
+
+
 
 // Default character cards (SVS)
 小牧 瑞穗=Komaki Mizuho

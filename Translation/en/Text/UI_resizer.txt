@@ -14,4 +14,15 @@ HomeScene/UI/RegistrationUI/CharaList/HumanSelectWindow/Panel/Layout/ListView/Hu
 HomeScene/UI/RegistrationUI/CharaList/HumanSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (04)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
 HomeScene/UI/RegistrationUI/CharaList/HumanSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (05)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
 
+FreeHScene/Canvas/HumanSelectWindows/ReceiveSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (00)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+FreeHScene/Canvas/HumanSelectWindows/ReceiveSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (01)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+FreeHScene/Canvas/HumanSelectWindows/ReceiveSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (02)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+FreeHScene/Canvas/HumanSelectWindows/ReceiveSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (03)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+FreeHScene/Canvas/HumanSelectWindows/ReceiveSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (04)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+FreeHScene/Canvas/HumanSelectWindows/ReceiveSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (05)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+
 HomeScene/UI/RegistrationUI/CharaList/SeatEdit/PreviewWindow/Profiles/Activity/Background/txtActivity=ChangeFontSize(16)
+
+HomeScene/UI/RegistrationUI/CharaList/UniqueNPCEdit/Background/Passports/passport_unique_npc (00)/imgBase/Info/=ChangeFontSize(15)
+HomeScene/UI/RegistrationUI/CharaList/UniqueNPCEdit/Background/Passports/passport_unique_npc (01)/imgBase/Info/=ChangeFontSize(15)
+HomeScene/UI/RegistrationUI/CharaList/UniqueNPCEdit/Background/Passports/passport_unique_npc (02)/imgBase/Info/=ChangeFontSize(15)

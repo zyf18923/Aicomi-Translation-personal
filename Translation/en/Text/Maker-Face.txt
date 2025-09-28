@@ -228,7 +228,7 @@
 ウサギA=Rabbit A
 梵字（カーン）=Sanskrit Khan
 ガード=Guard
-カフェ=Coffee
+カフェ=Cafe
 ウサギB=Rabbit B
 星キラッ(右)=Stars (Right)
 星キラッ(左)=Stars (Left)
