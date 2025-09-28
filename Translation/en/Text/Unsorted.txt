@@ -3,8 +3,8 @@
 ◯オシャレ=◯Style
 ◯オシャレ=◯Fashion
 あんとす=Antos
-◯勉強　◯スポーツ　◯オシャレ=◯Studying ◯Sports ◯Fashion
-氏　　名=Full name
+◯勉強 ◯スポーツ ◯オシャレ=◯Studying ◯Sports ◯Fashion
+氏  名=Full name
 
 // Random maker
 靴=Shoes
@@ -265,10 +265,8 @@ Stockingsの詳細=More on Stockings
 ◯誕生日=◯Birthday
 ◯部活 ┐=◯Club activities ┐
 ◯部活=◯Club activities
-　トイレ（駄菓子屋）=　Toilet (Candy Shop)
-「なんか、結構話しちゃったな？　んじゃ」　=「We've talked quite a bit, huh? Well then.」
+ トイレ（駄菓子屋）= Toilet (Candy Shop)
 あいうえおかきくけこ あいうえおかきくけこ=Aiueo Kakikukeko Aiueo Kakikukeko
-あいうえおかきくけこ　あいうえおかきくけこ=Aiueo Kakikukeko Aiueo Kakikukeko
 えりまる=Erimaru
 かな=I guess
 かなっち=Kanacchi
@@ -411,7 +409,7 @@ Stockingsの詳細=More on Stockings
 男性キャラ=Male Character
 男複数エッチ=Gangbang
 発信=Call
-発信履歴 なし=Call history:　None
+発信履歴 なし=Call history: None
 登録済み=Registered
 皆と同じ愛称を使う=Use the same nickname as everyone else
 相手キャラ=Partner
