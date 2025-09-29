@@ -1991,10 +1991,10 @@
 「マラソンって、ただ走るだけでつまらないと思うんだけど……」=「I think just running a marathon is boring...」
 「わかってくれる？ この自然の中を黙々と走るとスッキリするのよね」=「Do you understand? Running silently through nature is refreshing.」
 「スポーツの習い事とかしてたことある？」=「Have you ever been taught sports?」
-「小さい頃に習ってみたいものはあったけど、この辺だと何もなかったのよねぇ」=「There was something I wanted to learn when I was little, but nothing happened around here.」
-習いたい事あったんだね=There's something you want to learn.
+「小さい頃に習ってみたいものはあったけど、この辺だと何もなかったのよねぇ」=「There was something I wanted to learn when I was little, but there were no trainers around here.」
+習いたい事あったんだね=What did you want to learn?
 それは残念だったね=That's too bad.
-俺は習い事が嫌だったな=I didn't like learning.
+俺は習い事が嫌だったな=I never liked taking lessons.
 「それは残念だね……ちなみに何を習おうとしてたの？」=「That's too bad... By the way, what were you trying to learn?」
 「嫌々習い事をさせられそうになってた俺とは大違いだね」=「You're completely different from me, who was about to be forced to learn from you.」
 「フィギュアスケートよ。テレビで見て憧れていたの」=「It's figure skating. I watched it on TV and admired it.」
