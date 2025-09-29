@@ -1564,8 +1564,8 @@
 エナドリだね=It's an energy bird.
 「お、奇遇じゃの。ちなみに我の場合、科目ごとに茶葉を変えたりするぞ」=「Oh, what a coincidence. By the way, in our case, we change the tea leaves depending on the subject.」
 「一時期脳トレなどのゲームが流行ったが、お主は好きかの？」=「At one point, games like brain training became popular. Do you like them?」
-大好きだよ=I love you.
-そこまでじゃないかな=I don't think that's it.
+大好きだよ=I love them.
+そこまでじゃないかな=Not that much, I suppose.
 「おお、そうか！ 我も好きだったぞ、簡単に楽しめて競技性もあったからな」=「Oh, I see! I liked it too. It was easy to enjoy, and it was competitive.」
 「おお、なんじゃお主か、奇遇じゃの……何か用か？」=「Oh, it's you. What a coincidence... Do you need something?」
 「のう……[Pあだ名]」=「Hey... [Pあだ名].」
@@ -1880,7 +1880,7 @@
 「流行やトレンドには敏感な方なのかの？」=「Are you sensitive to trends and trends?」
 鈍感だね=You're so dense.
 意識はしてないかな=I don't think he's conscious of it.
-結構気にしてるよ=I'm pretty worried about you.
+結構気にしてるよ=I'm pretty worried about it.
 「こんな田舎だと、そういうもんじゃよな。調べたところでおしゃれする場所もないしの」=「That's just how it is in the countryside. There's nowhere to dress up even if you look into it.」
 「自分磨きとやらを始めるとして、何から手を付けたらよいと思う？」=「If you're going to start polishing yourself, where do you think you should start?」
 鏡を見るといいよ=You should look in the mirror.

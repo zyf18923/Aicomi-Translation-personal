@@ -4,11 +4,11 @@
 お祭りを回る=Go around the festival
 お祭りを回ろう=Let's go around the festival
 ついてきて=Come with me
-イタズラしたい=I want to play pranks
+イタズラしたい=Play a prank
 イチャイチャしたい=I want to get cozy
 イベント(キャラ)=Event (Character)
 イベント(マップ)=Event (Map)
-エッチしたい=I want to have sex
+エッチしたい=Ask for sex
 エッチな話=Sex talk
 エッチポイント=Sex points
 カフェの店員=Cafe staff

@@ -1523,6 +1523,7 @@ E娹=E~
 「やっぱいいな、お前と話すの……すっげぇ気楽だわ」=「Talking to you really is nice... It's really easy.」
 「じ、ジロジロ見られると、さすがに恥ずかしいって……」=「I-It's embarrassing when you stare at me like that...」
 「な、何でお前がここいるんだ？！ ここは女子用なんだから早く出ていけって！」=「Wh-Why are you here?! This is for girls, so hurry up and get out!」
+「な、何でお前がここいるんだ？！ ここは女子用なんだから早く出ていけって！」 =「Wh-Why are you here?! This is for girls, so hurry up and get out!」
 「もちろんOKだぜ！ やっぱ、ああいうのは一緒に行った方が盛り上がるしな」=「Of course I'm okay with that! It'd be more exciting if we went there together.」
 「バカ、お前、そこは入っちゃダメだろ」=「You idiot, you can't go in there.」
 「おう、なんか用事か？」=「Oh, did you need something?」

@@ -243,8 +243,8 @@
 「ええ、いいわよ。時間はちゃんと空けてたし」=「Yeah, it's fine. We had plenty of time.」
 「いいわよ、なんでもどうぞ」=「It's fine. Feel free to do anything.」
 「都会とここじゃ、いろいろ勝手が違うでしょ？ 何か困ってない？」=「There's a lot of differences between the city and here, right? Isn't there something troubling you?」
-困ってるよ=I'm in trouble.
-困ってないかな=I don't think you're in trouble.
+困ってるよ=I'm in a bit of a pickle.
+困ってないかな=I think I'm all good.
 「いつでもお話聞かせてもらうから、気軽に相談してね」=「You can talk to me anytime, so feel free to ask me for advice.」
 「キミはちゃんと将来について考えてる？」=「Are you thinking about your future?」
 「んー……考えてるけど、いろいろ迷ってるんだ」=「Hmm... I'm thinking about it, but I've got a lot on my mind.」

@@ -1519,8 +1519,8 @@
 「よーし！ 張り切っちゃうからねー！」=「Okay! I'm going to get fired up!」
 「そっかー、残念。君と一緒だといつも以上に身体が動くんだけどなあ」=「I see. That's too bad. My body moves more than usual when I'm with you.」
 「朝起きる時って目覚まし時計は使う？」=「Do you use your alarm clock when you wake up in the morning?」
-もちろん使うよ=I'll use it, of course.
-使わないかな=I don't think I'll use it.
+もちろん使うよ=I use it, of course.
+使わないかな=I don't need it.
 「やっぱり必要だよね。でも、一つじゃ起きられないこともあるんだよ」=「It really is necessary, isn't it? But there are some things you can't get up on your own.」
 「差し込む日の光で起きるのが一番だよねー」=「It's best to wake up in the sunlight.」
 「部屋の整頓はきちんとしてる？」=「Is your room tidy?」
@@ -1886,8 +1886,8 @@
 「流行りのファッションってどう思う？」=「What do you think of fashionable fashion?」
 「あんまり興味ないかな……そういう君はどう思ってるの？」=「I don't think I'm that interested... What do you think?」
 全然興味ないよ=I'm not interested at all.
-そこまで興味ないかな=I don't think he's that interested.
-気にする方だよ=He's the kind of guy who cares.
+そこまで興味ないかな=I'm somewhat interested.
+気にする方だよ=I'm the type that worries about it.
 「俺もあんまり。自分が好きな服を着るのが一番だと思うから」=「Me too. I think it's best to wear the clothes you like.」
 「実は結構気になる方だったりするんだよね」=「Actually, I'm pretty curious about him.」
 「うんうん。世間の流行りより、自分の意思だよねー」=「Yeah, yeah. It's more about your own will than what's popular in the world.」
