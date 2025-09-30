@@ -1063,7 +1063,7 @@
 「あったよ。ビル全部、本屋とか」=「There it is. All the buildings are bookstores and stuff.」
 「……？ ビルが全部……本屋？ そんな……嘘……」=「...? All the buildings... are bookstores? That's... a lie...」
 「嘘じゃないよ。本当だよ」=「I'm not lying. I'm telling the truth.」
-「そんなものが存在するなんて……公民館の図書室より……大きい本屋なんて……信じられない…………ずるい」=「I can't believe something like that exists... A bookstore... bigger than the library in the community center... That's not fair...」
+「そんなものが存在するなんて……公民館の図書室より……大きい本屋なんて……信じられない…………ずるい」=「I can't believe something like that exists... A bookstore... bigger than the library in the village hall... That's not fair...」
 「い、いつか行こう！ 案内するから！」=「L-Let's go someday! I'll show you around!」
 「……わかった。行こう……」=「...Okay. Let's go...」
 「迷子になったこと……ある？」=「Have you... ever been lost?」

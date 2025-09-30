@@ -27,7 +27,6 @@
 勉強しよう=Let's study
 司書=Librarian
 告白=Confess
-地域活動部=Community Activities Club
 夕方=Evening
 帰宅部=After-school Club
 教師=Teacher
