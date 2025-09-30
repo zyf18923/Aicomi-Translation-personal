@@ -317,6 +317,10 @@ internal static class ReleaseTool
     {
         if (!Directory.Exists(dialogueDir)) return;
 
+        var regexPath = Path.Combine(dialogueDir, "generated_regex.txt");
+
+        File.Delete(regexPath);
+
         // Enumerate all txt files, look for likes with [ ] tags in them, convert them to regexes and put them in a separate file
 
         var taggedLines = new List<string>();
@@ -360,7 +364,7 @@ internal static class ReleaseTool
                 File.WriteAllLines(dialogueFile, lines.Where(x => x.Length > 0));
         }
 
-        File.WriteAllLines(Path.Combine(dialogueDir, "generated_regex.txt"),
+        File.WriteAllLines(regexPath,
                            // Deduplicate, then order regexes based on number of characters before first tag then by original text length for a small speedup at runtime
                            taggedLines.Distinct()
                                       .GroupBy(x => x.Substring(0, x.IndexOf('='))).Select(x => x.First())
