@@ -9,6 +9,8 @@ using Character;
 using HarmonyLib;
 using System.Reflection;
 using AC.Scene.Explore.UI;
+using AC.Scene.Home.UI.Callsign;
+using ReleaseTool;
 using TMPro;
 using UnityEngine.UI;
 using XUnity.AutoTranslator.Plugin.Core;
@@ -24,7 +26,7 @@ namespace AC_TranslationHelper
     [BepInDependency("gravydevsupreme.xunity.autotranslator", "5.4")]
     public class TranslationHelperPlugin : BasePlugin
     {
-        public const string Version = "0.1";
+        public const string Version = "1.0";
         public const string GUID = "TranslationHelper";
         internal const string DisplayName = "Translation Helper";
         internal static ManualLogSource Logger = null!;
@@ -133,6 +135,25 @@ namespace AC_TranslationHelper
                 Touch(__instance._txtName, __instance._txtBirthday, __instance._txtBlood, __instance._txtLocation,
                       __instance._txtHeroineName, __instance._txtHeroineBirthday, __instance._txtHeroineBlood, __instance._txtHeroineActivity);
             }
+
+            [HarmonyPostfix]
+            [HarmonyPatch(typeof(CallsignEditorUI), nameof(CallsignEditorUI.Refresh))]
+            public static void Postfix_CallsignEditorUI_Refresh(CallsignEditorUI __instance, int type)
+            {
+                System.Diagnostics.Debug.Write("Postfix_CallsignEditorUI_Refresh");
+                Touch(__instance._callsignOptions[type]!.CastToEnumerable<CallsignOption>().SelectMany(x => x._texts).ToArray());
+            }
+
+            // TODO:
+            // In-game character list > h stats mode > scrolling up and down causes translations to get lost and not picked up automatically
+            // This doesn't work, seems like the text is updated through a binding which I couldn't find a place to hook into
+            //[HarmonyPostfix]
+            //[HarmonyPatch(typeof(HeroineListElement), nameof(HeroineListElement.RefreshInfoMode))]
+            //public static void Postfix_HeroineListElement_RefreshInfoMode(HeroineListElement __instance, int type)
+            //{
+            //    System.Diagnostics.Debug.Write("Postfix_CallsignEditorUI_Refresh");
+            //    Touch(__instance._txtState);
+            //}
 
             /// <summary>
             /// Workaround for images not getting translated
