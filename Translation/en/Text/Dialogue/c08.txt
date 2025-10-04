@@ -356,6 +356,7 @@
 「あだ名……じゃあ……」=「A nickname... Then...」
 「待って。もう決めてるんだ。俺のあだ名は[Pあだ名]がいい。[Pあだ名]って呼んで」=「Wait. I've already decided. My nickname is [Pあだ名]. Call me [Pあだ名].」
 「……それでいいんだ……わかった……[Pあだ名]」=「...That's fine... Got it... [Pあだ名].」
+それでいいんだ……わかった……[Pあだ名]=That's fine... Got it... [Pあだ名].
 「ありがとう、[Hあだ名]」=「Thank you, [Hあだ名].」
 「……それ……わたしのあだ名？」=「...Is that... my nickname?」
 「うん。駄目？」=「Yeah. Can't I?」
