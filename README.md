@@ -12,14 +12,15 @@ You can see which languages are supported [here](https://github.com/IllusionMods
 
 2. Delete the existing `BepInEx\Translation` folder from your game directory if it exists.
 
-3. Install This Translation
-	- Download the latest release from the [Releases](https://github.com/IllusionMods/Aicomi-Translation/releases) page.
-	- Extract the contents of the archive into your game directory. Overwrite files if asked. Ensure that the `BepInEx\Translation` folder is placed correctly. 
+3. 安装此翻译
+	- 从项目的[发布页面](https://github.com/IllusionMods/Aicomi-Translation/releases)下载最新的发布版本。
+	- 将压缩包内的内容解压到您的游戏根目录中。如果系统询问，请选择覆盖文件。请确保 BepInEx\Translation 文件夹被正确放置。
+	- 检查是否生效。
 
-4. See if it works
-	- If you wish to change the language, edit the `BepInEx\config\XUnity.AutoTranslator.cfg` file and set the `Language` option to your desired language code (e.g. ``Language=zh-TW``).
-	- Launch the game. The translations should now be applied automatically.
-	- If you see untranslated text (e.g. names of items added by mods or future game updates), you may need to change the `Endpoint` option. Press Alt+0 while in-game to open the XUnity Auto Translator menu and select a different endpoint.
+4. 检查是否生效
+	- 如果您希望更改语言，请编辑 BepInEx\config\XUnity.AutoTranslator.cfg 文件，并将 Language 选项设置为您期望的语言代码（例如，Language=zh-CH）。
+	- 启动游戏。翻译现在应该会自动应用。
+	- 如果您看到未翻译的文本（例如，由模组或未来游戏更新添加的物品名称），您可能需要更改 Endpoint 选项。在游戏内按 Alt+0 打开 XUnity Auto Translator 菜单，并选择一个不同的翻译服务端点。
 
 
 ## Contributing
@@ -37,8 +38,8 @@ Otherwise, you can use the GitHub web interface to easily make single-file chang
 
 **Tip:** For small fixes (typos, single lines), editing on GitHub is easiest. For larger changes, you can still use the GitHub website by repeating the above steps for each file.
 
-### Compiling New Releases
+### 编译新发布版本
 
-Releases must be made with the TranslationTool included in this repository, or some ADV dialogue lines will not be translated in-game. This is because the tool has to generate regexes for lines with placeholder tags that represent character names in-game.
+发布版本必须使用本代码库中包含的 TranslationTool 来制作，否则游戏中的一些 ADV 对话行将不会被翻译。这是因为该工具需要为包含代表游戏内角色名的占位符标签的文本行生成正则表达式。
 
-First build the whole translation tools solution in Visual Studio 2022+, then run ReleaseTool by draggin the repository folder onto it. The tool will generate a new release zip in the same folder as the executable.
+首先在 Visual Studio 2022 或更高版本中构建整个翻译工具解决方案，然后通过将代码库文件夹拖放到 ReleaseTool 可执行文件上来运行它。该工具将在其可执行文件所在的同一文件夹内生成一个新的发布版本压缩包。
